@@ -21,3 +21,6 @@
   
   
   ##
+  
+  ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) 
+  ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (https://twitter.com/Lipe_editor))
