@@ -1,7 +1,7 @@
 ## Opa! Sou o Luiz Fellipe ou Lipe👋
 
 - 🎂 14 years old
-- 📒 Estudando HTML e CSS
+- 📚 Estudando HTML e CSS
 - 😃 Pronomes ele/dele
 - 🥰 Apaixonado por programação
 
