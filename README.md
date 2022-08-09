@@ -1,8 +1,7 @@
 ## Opa! Sou o Luiz Fellipe ou Lipe👋
 
 - 🎂 14 years old
-- 📚 Estudando HTML e CSS
-- 😃 Pronomes ele/dele
+- 📚 Estudando Algoritimo, HTML e CSS
 - 🥰 Apaixonado por programação
 
 ![Lipexz GitHub stats](https://github-readme-stats.vercel.app/api?username=Lipexz&show_icons=true&theme=dracula)
